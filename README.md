@@ -1,6 +1,6 @@
 # 🚀 Winpay NG – Built by Favour Adjenuvurhe
 
-![Winpay Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSktbvZkL0JHGSioLPOzTGfCd8ykcuzNXha5VF-hH2PmCA65ML-kF-6XTQ&s=10)
+![Winpay Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRzwBc76r_4ZPsW60OTXNWk4pEYrpF4E59Q&s)
 
 Welcome to the official developer profile for **Winpay NG**, Nigeria’s trusted all-in-one VTU and bill payment platform.
 
