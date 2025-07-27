@@ -7,7 +7,7 @@ Welcome to the official developer profile for **Winpay NG**, Nigeria’s trusted
 > ✅ **Developed by:** Favour Adjenuvurhe  
 > 🧠 Also known as: *favour* / *_nexttHut🎨*  
 > 🎓 B.Sc. Economics @ UNIDEL  
-> 👨🏽‍💻 [LinkedIn](https://www.linkedin.com/in/favour-adjenuvurhe-148855294) | [YouTube](https://youtube.com/@favourdre) | [Twitter/X](https://twitter.com/favourdre)
+> 👨🏽‍💻 [LinkedIn](https://www.linkedin.com/in/favour-adjenuvurhe-148855294) | [YouTube](https://youtube.com/@favouradjenuvurhe) | 
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to the official developer profile for **Winpay NG**, Nigeria’s trusted
 
 ## 📍 Timeline & Credits
 
-- 🔨 **Built from scratch** in late 2023 – early 2024
+- 🔨 **Built from scratch** in late 2024 – early 2025
 - 🧑🏽‍💻 **Lead Developer:** Favour Adjenuvurhe
 - 🤝 **Commissioned by:** Dr. Abayomi Winner (CEO, Winpay NG)
 
@@ -61,7 +61,7 @@ If you're looking for a skilled developer to build or scale your VTU, fintech, o
 
 ---
 
-> “Nigeria has the talent. We’re not just users — we’re builders.” – *FavourDRE*
+> “Nigeria has the talent. We’re not just users — we’re builders.” – *Favour*
 
 ---
 
